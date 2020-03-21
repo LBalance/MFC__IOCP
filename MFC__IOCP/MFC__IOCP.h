@@ -20,6 +20,9 @@ public:
 	CMFC__IOCPApp();
 
 
+
+
+
 // ÖØÐ´
 public:
 	virtual BOOL InitInstance();
